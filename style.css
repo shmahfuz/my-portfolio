@@ -1,0 +1,46 @@
+body{
+Bagckground-color:#1bc9f5;
+  Margin:0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.half-width{
+    width: 40%;
+    float : ;
+    margin-left: 5%;
+    padding-left: 2% ;
+}
+h1{
+  font-size: 50px;
+}
+h1 span{
+  color: orange ;
+}
+.half-width img{
+  width:100%;
+  padding-left:10px;
+  padding-top: 15px;
+}
+.anchor-button {
+  text-decoration:none;
+  background: linear-gradient(45deg, lightsalmon, tomato); ;
+  padding: 10px 40px;
+  border-radius: 5px;
+  font-weight: 700;
+  color: white ;
+  }
+  .sec2{
+    display: flex;
+    Padding-top:25px ;
+  }
+ h2{
+   font-size :50px;
+ }
+ h3{
+   font-size:34px;
+ }
